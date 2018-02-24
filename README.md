@@ -23,17 +23,15 @@ This is my pet project writing ansible playbooks. If you like my work please sha
     - mysql-dump
     - mysql-import
     - transfer-db
-+ Hacking
-    - [john-the-ripper](https://github.com/adithyakhamithkar/ansible/blob/master/Hacking/roles/john-the-ripper)
+
 + List of Roles
-    - [agar](https://github.com/adithyakhamithkar/ansible/blob/master/roles/agar)
-    - [ansible](https://github.com/adithyakhamithkar/ansible/blob/master/roles/ansible)
+    - [agar]
+    - [ansible]
     - beef
     - bitcoin (WIP)
     - bittorrentsync
     - build-docker-image
-    - cachethq (Not working)
-    - [cassandra](https://github.com/adithyakhamithkar/ansible/blob/master/roles/cassandra)
+    
     - common
     - create-user
     - datadog-agent
@@ -41,7 +39,7 @@ This is my pet project writing ansible playbooks. If you like my work please sha
     - deployment-phpmyadmin
     - docker
     - docker-clean
-    + [elasticsearch](https://github.com/adithyakhamithkar/ansible-playbooks/blob/master/roles/elasticsearch/README.md)
+    + [elasticsearch]
         - elasticsearch-data
         - elasticsearch-master
     - epoch
@@ -59,16 +57,13 @@ This is my pet project writing ansible playbooks. If you like my work please sha
     - jdk
     - jenkins
         - jenkins-configure
-    - [kafka](https://github.com/adithyakhamithkar/ansible/blob/master/roles/kafka)
-        - [kafka-manager](https://github.com/adithyakhamithkar/ansible/tree/master/roles/kafka-manager)
+    - [kafka]
     - kibana
     - kubernetes
     - ldap-server
     - lets-encrypt
     - logstash
-    - [mesos](https://github.com/adithyakhamithkar/ansible/blob/master/roles/mesos)
-        - mesos-master
-        - mesos-slave
+   
     - mongodb
     - motd
     - mysql
@@ -88,10 +83,7 @@ This is my pet project writing ansible playbooks. If you like my work please sha
         - ossec-server
         - ossec-agent
     - packer  
-    - [phabricator](https://github.com/adithyakhamithkar/ansible/blob/master/roles/phabricator)
-    - php
-    - php7
-    - [postfix](https://github.com/adithyakhamithkar/ansible/tree/master/roles/postfix)
+
     - psad
     - rabbit-mq
     - rancher
@@ -117,4 +109,4 @@ This is my pet project writing ansible playbooks. If you like my work please sha
     - tomcat
     - varnish
     - youtrack
-    - [zookeeper](https://github.com/adithyakhamithkar/ansible/blob/master/roles/zookeeper)
+   
